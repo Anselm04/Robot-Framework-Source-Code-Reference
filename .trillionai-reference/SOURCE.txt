@@ -1,0 +1,5 @@
+Upstream: https://github.com/robotframework/robotframework
+Revision: 36f85f7ea3c5ba57fb201c181dc6a1e9635a38f7
+Copied files: 2616
+Excluded files: 6
+Upstream automation and unsupported entries excluded; original licences retained.
